@@ -1,2 +1,0 @@
-this is abc txt file
-I am enjoying git
